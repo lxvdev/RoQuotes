@@ -4,6 +4,7 @@
 // @version      2024-03-23
 // @description  Bring back roblox quotes to profiles! Put in your roblox about q"Text you want" to add quotes to your profile. (Only shows if you have the userscript)
 // @author       lxvdev
+// @license      MIT
 // @match        https://www.roblox.com/users/*/profile*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=roblox.com
 // ==/UserScript==
